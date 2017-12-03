@@ -74,8 +74,8 @@
     <instance objName="StonePlatform_obj" x="64" y="640" name="inst_53435C36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="96" y="640" name="inst_56BF0CBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="608" y="640" name="inst_8EFD6F4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Drake_obj" x="224" y="32" name="inst_3DA66CB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="PlayerCube_obj" x="64" y="576" name="inst_D6C9D547" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Drake_obj" x="288" y="192" name="inst_D8BED859" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
