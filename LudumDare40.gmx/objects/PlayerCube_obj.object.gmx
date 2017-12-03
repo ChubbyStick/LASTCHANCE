@@ -349,7 +349,7 @@ instance_destroy(Arrow_obj);
             <string>if global.goldCount &gt; 0
 {
     global.goldCount = 0;
-    PlayerCube_obj.y = pics_obj.y - 16;
+    PlayerCube_obj.y -= 16;
     vsp = -jumpspeed;
     global.playerweight = 1;
 }

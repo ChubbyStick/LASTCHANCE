@@ -73,9 +73,9 @@
     <object>objects\FlameThrow_obj</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Level1</room>
     <room>rooms\Level4</room>
     <room>rooms\Tuto</room>
-    <room>rooms\Level1</room>
     <room>rooms\Level2</room>
     <room>rooms\Level3</room>
     <room>rooms\Win</room>

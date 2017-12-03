@@ -145,8 +145,6 @@
     <instance objName="StonePlatform_obj" x="352" y="192" name="inst_EC0E96E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="384" y="192" name="inst_D42AF143" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="384" y="1568" name="inst_50647525" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_obj" x="256" y="1472" name="inst_BCDD2D3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_obj" x="288" y="1472" name="inst_56AFFDAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="416" y="1376" name="inst_2A207A2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="448" y="1376" name="inst_FCAD33EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="96" y="1376" name="inst_D59345FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -162,7 +160,7 @@
     <instance objName="coin_obj" x="384" y="384" name="inst_20A635E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="512" y="224" name="inst_2CCD08CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="0" y="192" name="inst_11168E46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Door_obj" x="64" y="160" name="inst_DDC2D432" locked="0" code="" scaleX="1" scaleY="1.25" colour="4294967295" rotation="0"/>
+    <instance objName="Door_obj" x="64" y="160" name="inst_DDC2D432" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="576" y="1024" name="inst_A832139A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="608" y="896" name="inst_B5423DD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="608" y="1152" name="inst_41F28A59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -184,6 +182,12 @@
     <instance objName="coin_obj" x="544" y="1888" name="inst_1504DA41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="544" y="1920" name="inst_EB72F650" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="544" y="1920" name="inst_4C9E27E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="224" y="1920" name="inst_4C981BEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="288" y="1920" name="inst_0E94D1C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="256" y="1920" name="inst_79117B01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="320" y="1920" name="inst_5DEFDDFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="256" y="1472" name="inst_2354CA8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="pics_obj" x="288" y="1472" name="inst_D3753539" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
