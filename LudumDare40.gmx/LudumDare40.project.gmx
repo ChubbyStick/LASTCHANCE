@@ -58,7 +58,9 @@
     <object>objects\pics_obj</object>
     <object>objects\KeysTuto_obj</object>
     <object>objects\Arrow_obj</object>
+    <object>objects\ArrowLeft_obj</object>
     <object>objects\CrossBow_obj</object>
+    <object>objects\CrossBowLeft_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Tuto</room>
