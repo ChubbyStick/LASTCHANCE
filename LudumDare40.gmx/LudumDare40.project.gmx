@@ -45,9 +45,9 @@
     <object>objects\Win_obj</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Tuto</room>
     <room>rooms\Level3</room>
     <room>rooms\Level1</room>
-    <room>rooms\Tuto</room>
     <room>rooms\Level2</room>
     <room>rooms\Win</room>
     <room>rooms\Game_OverRoom</room>
