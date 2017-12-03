@@ -50,7 +50,7 @@
             <kind>1</kind>
             <string>if keyboard_check(vk_enter)
 {
-    game_restart();
+    room_goto(Level1);
 }
 
 if keyboard_check(vk_escape)
@@ -85,7 +85,7 @@ draw_text(255, 1650, "You Died");
 
 draw_set_colour(c_white);
 draw_set_font(font1);
-draw_text(135, 1680, "Press Enter To Restart, Escape to Quit.");
+draw_text(80, 1680, "Press Enter To Restart, Escape to Quit.");
 </string>
           </argument>
         </arguments>
