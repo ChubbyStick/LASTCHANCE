@@ -182,7 +182,7 @@
     <instance objName="StonePlatform_obj" x="256" y="288" name="inst_F5046FFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="224" y="288" name="inst_330C771D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="192" y="288" name="inst_51E483EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="StonePlatform_obj" x="32" y="224" name="inst_B0C180D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="StonePlatform_obj" x="32" y="256" name="inst_B0C180D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="128" y="128" name="inst_3DC9249F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="160" y="128" name="inst_EEE46238" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="192" y="128" name="inst_1627CBB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -229,7 +229,7 @@
     <instance objName="coin_obj" x="576" y="352" name="inst_E73688D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="192" y="256" name="inst_17916DA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="288" y="256" name="inst_A5FE9002" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_obj" x="32" y="192" name="inst_FADA4824" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_obj" x="32" y="224" name="inst_FADA4824" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Door_obj" x="512" y="96" name="inst_F8F0E41F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>

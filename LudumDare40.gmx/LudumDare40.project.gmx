@@ -10,6 +10,8 @@
     <sound>sound\Level_music</sound>
     <sound>sound\GameOver_snd</sound>
     <sound>sound\FinalScreen_Sound</sound>
+    <sound>sound\DragonScream</sound>
+    <sound>sound\BossMusic</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\wall_spr</sprite>
@@ -21,6 +23,16 @@
     <sprite>sprites\Castle_spr</sprite>
     <sprite>sprites\SpaceBar_spr</sprite>
     <sprite>sprites\Void</sprite>
+<<<<<<< HEAD
+    <sprite>sprites\Drake_spr</sprite>
+    <sprite>sprites\CoinThrow_spr</sprite>
+    <sprite>sprites\FlameThrow_spr</sprite>
+=======
+    <sprite>sprites\pics_spr</sprite>
+    <sprite>sprites\KeysTuto_spr</sprite>
+    <sprite>sprites\CrossBow_spr</sprite>
+    <sprite>sprites\Arrow_spr</sprite>
+>>>>>>> c7fd409b04f53373a87ec965603f4558ff6bf91e
   </sprites>
   <backgrounds name="background">
     <background>background\Stone_Background</background>
@@ -31,7 +43,16 @@
     <background>background\Backlvl3</background>
     <background>background\BackLvl1</background>
   </backgrounds>
+<<<<<<< HEAD
+  <paths name="paths">
+    <path>paths\PathDragon</path>
+  </paths>
+=======
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
+>>>>>>> c7fd409b04f53373a87ec965603f4558ff6bf91e
   <fonts name="fonts">
     <font>fonts\Gold_fnt</font>
     <font>fonts\font1</font>
@@ -48,8 +69,21 @@
     <object>objects\SpaceBarInfo_obj</object>
     <object>objects\TriggerSpaceInfo_obj</object>
     <object>objects\HUD_obj</object>
+<<<<<<< HEAD
+    <object>objects\Drake_obj</object>
+    <object>objects\ThrowCoin_obj</object>
+    <object>objects\FlameThrow_obj</object>
+=======
+    <object>objects\pics_obj</object>
+    <object>objects\KeysTuto_obj</object>
+    <object>objects\Arrow_obj</object>
+    <object>objects\ArrowLeft_obj</object>
+    <object>objects\CrossBow_obj</object>
+    <object>objects\CrossBowLeft_obj</object>
+>>>>>>> c7fd409b04f53373a87ec965603f4558ff6bf91e
   </objects>
   <rooms name="rooms">
+    <room>rooms\Level4</room>
     <room>rooms\Tuto</room>
     <room>rooms\Level1</room>
     <room>rooms\Level2</room>
