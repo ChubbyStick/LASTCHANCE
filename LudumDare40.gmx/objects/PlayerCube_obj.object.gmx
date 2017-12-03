@@ -115,23 +115,13 @@ else
 
            instance_create(PlayerCube_obj.x, PlayerCube_obj.y - 35, BrokenPiece_obj);
         
-<<<<<<< HEAD
-           global.goldCount -= 1;
-       
-         if global.playerweight &gt; 1
-         {
-               global.playerweight -= global.pieceweight;
-        }
-}
-       
-=======
        global.goldCount -= 1;
        
        if global.playerweight &gt; 1
        {
             global.playerweight -= global.pieceweight;
        }
->>>>>>> c7fd409b04f53373a87ec965603f4558ff6bf91e
+    }
 }
 
 if keyboard_check(vk_right)
@@ -206,11 +196,6 @@ if(place_meeting(x+hsp, y+vsp, StonePlatform_obj))
 
 x += hsp;
 y += vsp;
-
-
-
-
-
 </string>
           </argument>
         </arguments>
