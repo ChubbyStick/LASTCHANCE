@@ -52,6 +52,11 @@
 {
     game_restart();
 }
+
+if keyboard_check(vk_escape)
+{
+    game_end();
+}
 </string>
           </argument>
         </arguments>
@@ -74,9 +79,13 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_set_colour(c_white);
+            <string>draw_set_colour(c_red);
+draw_set_font(font1);
+draw_text(255, 1650, "You Died");
 
-draw_text(150, 1250, "You Died");
+draw_set_colour(c_white);
+draw_set_font(font1);
+draw_text(135, 1680, "Press Enter To Restart, Escape to Quit.");
 </string>
           </argument>
         </arguments>
