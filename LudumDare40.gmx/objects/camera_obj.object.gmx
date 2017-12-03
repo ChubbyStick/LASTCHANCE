@@ -49,12 +49,11 @@
           <argument>
             <kind>1</kind>
             <string>
-if PlayerCube_obj.y &lt; 1800 &amp;&amp; PlayerCube_obj.y &gt; 300
+if PlayerCube_obj.y &lt; 1800 &amp;&amp; PlayerCube_obj.y &gt; 160
 {
-
     if ( y &lt; 100)
     {
-        y = 300;
+        y = 200;
     }
     y -= 1;
 }
@@ -93,12 +92,12 @@ draw_set_font(Gold_fnt);
 
 if camera_obj.y &gt; 300
 {
-    draw_text(camera_obj.x - 100 , camera_obj.y - 210, "Gold: " + string(global.goldCount));
+    draw_text(camera_obj.x - 200 , camera_obj.y - 210, "Gold: " + string(global.goldCount));
 }
 
 if camera_obj.y &lt; 300
 {
-    draw_text(camera_obj.x - 100 , 0, "Gold: " + string(global.goldCount));
+    draw_text(camera_obj.x - 200 , 0, "Gold: " + string(global.goldCount));
 } 
 </string>
           </argument>

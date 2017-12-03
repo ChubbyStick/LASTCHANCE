@@ -128,7 +128,7 @@
     <instance objName="StonePlatform_obj" x="320" y="1408" name="inst_DD60C1BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="288" y="1408" name="inst_21FE88B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="352" y="1408" name="inst_DAC9341D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="camera_obj" x="416" y="1600" name="inst_27446097" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="camera_obj" x="416" y="1440" name="inst_27446097" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="480" y="1344" name="inst_D57A3FB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="448" y="1312" name="inst_70FFEB5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="416" y="1280" name="inst_98FF7925" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
