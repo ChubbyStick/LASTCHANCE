@@ -102,7 +102,6 @@
     <instance objName="coin_obj" x="548" y="352" name="inst_0CA5F6F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="HUD_obj" x="0" y="384" name="inst_D7B323A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="TriggerSpaceInfo_obj" x="480" y="384" name="inst_2F8007EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="KeysTuto_obj" x="32" y="512" name="inst_BE68750D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
