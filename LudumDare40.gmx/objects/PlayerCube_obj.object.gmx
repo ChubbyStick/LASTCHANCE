@@ -112,10 +112,14 @@ else
     if keyboard_check_pressed(vk_space) &amp;&amp; global.goldCount &gt; 0
     {
         audio_play_sound(Coin_drop_snd, 10, false);
-
-           instance_create(PlayerCube_obj.x, PlayerCube_obj.y - 35, BrokenPiece_obj);
         
-       global.goldCount -= 1;
+        instance_create(PlayerCube_obj.x, PlayerCube_obj.y - 35, BrokenPiece_obj);
+        
+       global.goldCount -= 3;
+       if global.goldCount &lt; 0 
+       {
+            global.goldCount = 0;
+       }
        
        if global.playerweight &gt; 1
        {
@@ -309,7 +313,7 @@ y += vsp;
             <string>if global.goldCount &gt; 0
 {
     global.goldCount = 0;
-    PlayerCube_obj.y -= 16;
+    PlayerCube_obj.y -= 32;
     global.playerweight = 1;
 }
 else
