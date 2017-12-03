@@ -10,6 +10,8 @@
     <sound>sound\Level_music</sound>
     <sound>sound\GameOver_snd</sound>
     <sound>sound\FinalScreen_Sound</sound>
+    <sound>sound\DragonScream</sound>
+    <sound>sound\BossMusic</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\wall_spr</sprite>
@@ -25,6 +27,9 @@
     <sprite>sprites\KeysTuto_spr</sprite>
     <sprite>sprites\CrossBow_spr</sprite>
     <sprite>sprites\Arrow_spr</sprite>
+    <sprite>sprites\Drake_spr</sprite>
+    <sprite>sprites\CoinThrow_spr</sprite>
+    <sprite>sprites\FlameThrow_spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Stone_Background</background>
@@ -35,7 +40,9 @@
     <background>background\Backlvl3</background>
     <background>background\BackLvl1</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\PathDragon</path>
+  </paths>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
@@ -61,8 +68,12 @@
     <object>objects\ArrowLeft_obj</object>
     <object>objects\CrossBow_obj</object>
     <object>objects\CrossBowLeft_obj</object>
+    <object>objects\Drake_obj</object>
+    <object>objects\ThrowCoin_obj</object>
+    <object>objects\FlameThrow_obj</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Level4</room>
     <room>rooms\Tuto</room>
     <room>rooms\Level1</room>
     <room>rooms\Level2</room>
