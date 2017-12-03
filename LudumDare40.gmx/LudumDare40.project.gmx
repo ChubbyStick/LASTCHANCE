@@ -21,6 +21,10 @@
     <sprite>sprites\Castle_spr</sprite>
     <sprite>sprites\SpaceBar_spr</sprite>
     <sprite>sprites\Void</sprite>
+    <sprite>sprites\pics_spr</sprite>
+    <sprite>sprites\KeysTuto_spr</sprite>
+    <sprite>sprites\CrossBow_spr</sprite>
+    <sprite>sprites\Arrow_spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Stone_Background</background>
@@ -32,6 +36,9 @@
     <background>background\BackLvl1</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\Gold_fnt</font>
     <font>fonts\font1</font>
@@ -48,6 +55,10 @@
     <object>objects\SpaceBarInfo_obj</object>
     <object>objects\TriggerSpaceInfo_obj</object>
     <object>objects\HUD_obj</object>
+    <object>objects\pics_obj</object>
+    <object>objects\KeysTuto_obj</object>
+    <object>objects\Arrow_obj</object>
+    <object>objects\CrossBow_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Tuto</room>
