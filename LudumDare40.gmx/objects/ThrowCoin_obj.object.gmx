@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_play_sound(Coin_drop_snd, 10, false);
+            <string>audio_play_sound(Coin_drop_snd, 11, false);
 </string>
           </argument>
         </arguments>

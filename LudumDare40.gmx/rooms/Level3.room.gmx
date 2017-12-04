@@ -246,6 +246,8 @@
     <instance objName="StonePlatform_obj" x="96" y="704" name="inst_E757C0E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="128" y="672" name="inst_9CCFBFE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="160" y="640" name="inst_D567F630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="StonePlatform_obj" x="160" y="544" name="inst_BD21CE8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="StonePlatform_obj" x="160" y="544" name="inst_4C792BD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="160" y="576" name="inst_A2941E1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="160" y="608" name="inst_F73DA3DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="320" y="512" name="inst_59F5EDBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -303,7 +305,7 @@
     <instance objName="StonePlatform_obj" x="384" y="192" name="inst_874A6D64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="384" y="192" name="inst_6BD9B8CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="StonePlatform_obj" x="416" y="192" name="inst_39053992" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Door_obj" x="288" y="160" name="inst_40AEC140" locked="0" code="" scaleX="1.125" scaleY="0.984375" colour="4294967295" rotation="0"/>
+    <instance objName="Door_obj" x="288" y="160" name="inst_40AEC140" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="camera_obj" x="416" y="1440" name="inst_1F89F660" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="PlayerCube_obj" x="32" y="1888" name="inst_CF2F9A30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="128" y="1920" name="inst_4CDB8544" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -333,6 +335,7 @@
     <instance objName="coin_obj" x="128" y="608" name="inst_811595F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="128" y="608" name="inst_D7556F9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="128" y="640" name="inst_21D84365" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_obj" x="128" y="544" name="inst_8B898784" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="128" y="576" name="inst_47D2B4A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="288" y="352" name="inst_AA71F2BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_obj" x="352" y="160" name="inst_F6E63D1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -352,8 +355,6 @@
     <instance objName="StonePlatform_obj" x="544" y="1120" name="inst_2E581631" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="CrossBowLeft_obj" x="544" y="1088" name="inst_D9912040" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="CrossBowLeft_obj" x="576" y="448" name="inst_490469CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="StonePlatform_obj" x="160" y="544" name="inst_C4BEF0BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_obj" x="128" y="544" name="inst_2AAA1200" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
