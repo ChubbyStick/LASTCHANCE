@@ -71,7 +71,6 @@
     <object>objects\Drake_obj</object>
     <object>objects\ThrowCoin_obj</object>
     <object>objects\FlameThrow_obj</object>
-    <object>objects\CountPiece</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Tuto</room>

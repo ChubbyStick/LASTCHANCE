@@ -2,12 +2,12 @@
   <kind>0</kind>
   <closed>-1</closed>
   <precision>4</precision>
-  <backroom>0</backroom>
+  <backroom>1</backroom>
   <hsnap>16</hsnap>
   <vsnap>16</vsnap>
   <points>
-    <point>288,32,100</point>
-    <point>64,160,100</point>
-    <point>528,160,100</point>
+    <point>288,112,100</point>
+    <point>48,352,100</point>
+    <point>544,352,100</point>
   </points>
 </path>
